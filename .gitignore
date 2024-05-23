@@ -1,0 +1,3 @@
+ocr_backend/upload/*
+ocr_backend/venv
+ocr_frontend/node_modules
